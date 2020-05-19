@@ -213,6 +213,9 @@ class App extends React.Component {
     }
     else if (this.state.temptype = "farenheight") {
       return (
+        <h1>hi</h1>
+        <h1>hi</h1>
+        <h1>hi</h1>
 
         <div className="App" >
           <h1 className="weather_heading">How is the Weather?  </h1><a>F</a> |  <a href="#" onClick={(e) => { this.switchTempTypeToC(e) }}>C</a >
