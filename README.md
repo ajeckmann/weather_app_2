@@ -1,3 +1,5 @@
+My constant craving for nicer weather in Chicago drove me to build my own personalized weather app. Still being developed as of now, but a ton of fun to do! React is awesome!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
