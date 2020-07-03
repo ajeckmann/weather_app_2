@@ -37,12 +37,45 @@
   }
 }
 
-
-.form_row{
-  margin-left: 10px;
+.form_row {
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
-
-.weather_heading{
+.weather_heading {
   margin-top: 30px;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.location {
+  border: none;
+  border-bottom: 2px solid lightskyblue;
+}
+.submitbutton {
+  vertical-align: bottom;
+}
+
+.conditionsbox {
+  border: solid blue 2px;
+}
+
+.infoSpan {
+  vertical-align: top;
+}
+
+.special_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  align-items: top;
+}
+
+.tip_row {
+  margin: 15px;
 }
